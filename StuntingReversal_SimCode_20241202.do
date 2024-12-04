@@ -4,18 +4,7 @@
 // INSTITUTION: The Hospital for Sick Children, Toronto, Canada
 // TASK: Simulate population datasets and generate supporting Figures
 // ORIGINAL CREATED BY: Kelly Watson
-// DATE OF ORIGINAL VERSION: June 13, 2024
-// UPDATES 06/05/2024 HQ: Added code to annotate between time point correlations (curly brackets) and rescale figure 3
-// UPDATES Oct 11, 2024 DGB: Reviewed code, increased simulation sizes to 100,000 for all figures, 
-//			added code to verify that the simulated datasets had means, SD and correlations as expected. 
-//			Added downsampling of observations for plotting purposes (downsampling does not affect the estimates, only the density of markers plotted). 
-//			Added RTM analysis block to first simulation (using rtmci)
-// UPDATES Oct 19, 2024 DR: Changed Figure 1 code to include both panels A (non-faltering) and B (faltering)
-//			Included steps to check use of rtmci and conditional growth models to predict 6mo mean HAZ in subgroup stunted at 3 months
-// UPDATES Oct 25, 2024 DGB and HQ: Slightly modified figure 1 code
-// UPDATES Oct 27, 2024 DR: Cleaned up code file
-// UPDATE  Nov 5, 2024 DR: fixed typo in graph code for figure3
-// UPDATE  Dec 2, 2024 DR: Changed SD to 1 for Figure 1 simulation
+// VERSION DATE: December 2, 2024
 
 /* Table of contents: 
 PART 1: Simulate dataset and generate Figure 1A and 1B

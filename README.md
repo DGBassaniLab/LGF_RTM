@@ -1,6 +1,6 @@
 # 
 
-Repository containing STATA code for replication of the manuscript: "Stunting reversal versus regression to the mean in epidemiological studies of child linear growth in low- and middle-income countries: a cautionary note and call for remediation of published literature"
+Repository containing Stata code for replication of the manuscript: "Stunting reversal versus regression to the mean in epidemiological studies of child linear growth in low- and middle-income countries: a cautionary note and call for remediation of published literature"
 
 
 ### Stunting reversal versus regression to the mean in epidemiological studies of child linear growth in low- and middle-income countries: a cautionary note and call for remediation of published literature 
@@ -17,7 +17,7 @@ Daniel E. Roth(1,2,3,4), Kelly M. Watson(1,5), Huma Qamar(1), Diego G. Bassani(1
   4 - Department of Nutritional Sciences, University of Toronto, Toronto, Ontario, Canada  
   5 - Graduate Entry Medical Programme, University of Limerick, Limerick, Ireland 
 
-The repository includes one STATA do file: 
+The repository includes one Stata do file: 
 > StuntingReversal_SimCode_20241202.do
 
 The code includes the user-written _rtmci_ command.

@@ -18,7 +18,7 @@ Daniel E. Roth(1,2,3,4), Kelly M. Watson(1,5), Huma Qamar(1), Diego G. Bassani(1
   5 - Graduate Entry Medical Programme, University of Limerick, Limerick, Ireland 
 
 The repository includes one Stata do file: 
-> StuntingReversal_SimCode_20241202.do
+> StuntingReversal-RTM_SimCode_20250626.do
 
 The code includes the user-written _rtmci_ command.
 

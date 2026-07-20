@@ -21,4 +21,3 @@ The repository includes one Stata do file:
 The code includes the user-written _rtmci_ command.
 
 [Ariel Linden, 2013. "RTMCI: Stata module to estimate regression to the mean effects with confidence intervals," Statistical Software Components S457757, Boston College Department of Economics.](https://ideas.repec.org/c/boc/bocode/s457757.html)
-<img width="468" height="617" alt="image" src="https://github.com/user-attachments/assets/38eab680-eba1-407b-a380-447e6e80700e" />

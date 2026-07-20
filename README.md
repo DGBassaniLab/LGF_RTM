@@ -1,9 +1,7 @@
-# 
-
-Repository containing Stata code for replication of the manuscript: "Stunting reversal versus regression to the mean in epidemiological studies of child linear growth in low- and middle-income countries: a cautionary note and call for remediation of published literature"
+# Repository containing Stata code for replication of the manuscript: "Stunting reversal versus regression to the mean in epidemiological studies of child linear growth in low- and middle-income countries"
 
 
-### Stunting reversal versus regression to the mean in epidemiological studies of child linear growth in low- and middle-income countries: a cautionary note and call for remediation of published literature 
+### Stunting reversal versus regression to the mean in epidemiological studies of child linear growth in low- and middle-income countries 
 
 
 
@@ -18,9 +16,9 @@ Daniel E. Roth(1,2,3,4), Kelly M. Watson(1,5), Huma Qamar(1), Diego G. Bassani(1
   5 - Graduate Entry Medical Programme, University of Limerick, Limerick, Ireland 
 
 The repository includes one Stata do file: 
-> StuntingReversal-RTM_SimCode_20250626.do
+> StuntingReversal-RTM_SimCode_20260128.do
 
 The code includes the user-written _rtmci_ command.
 
-[Ariel Linden, 2013. "RTMCI: Stata module to estimate regression to the mean effects with confidence intervals," Statistical Software Components S457757, Boston College Department of Economics.](https://ideas.repec.org/c/boc/bocode/s457757.html) 
-
+[Ariel Linden, 2013. "RTMCI: Stata module to estimate regression to the mean effects with confidence intervals," Statistical Software Components S457757, Boston College Department of Economics.](https://ideas.repec.org/c/boc/bocode/s457757.html)
+<img width="468" height="617" alt="image" src="https://github.com/user-attachments/assets/38eab680-eba1-407b-a380-447e6e80700e" />

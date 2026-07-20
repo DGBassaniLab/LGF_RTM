@@ -1,8 +1,8 @@
-# Repository containing Stata code for replication of the manuscript: [Stunting reversal versus regression to the mean in epidemiological studies of child linear growth in low- and middle-income countries](https://www.sciencedirect.com/science/article/pii/S216183132600102X?via%3Dihub)
+# Repository containing Stata code for replication of the manuscript: "Stunting reversal versus regression to the mean in epidemiological studies of child linear growth in low- and middle-income countries"
 
 
-### Stunting reversal versus regression to the mean in epidemiological studies of child linear growth in low- and middle-income countries 
-
+### [Stunting reversal versus regression to the mean in epidemiological studies of child linear growth in low- and middle-income countries](https://www.sciencedirect.com/science/article/pii/S216183132600102X?via%3Dihub)
+https://doi.org/10.1016/j.advnut.2026.100688
 
 
 Daniel E. Roth(1,2,3,4), Kelly M. Watson(1,5), Huma Qamar(1), Diego G. Bassani(1,2,3) 
